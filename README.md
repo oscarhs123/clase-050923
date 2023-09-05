@@ -2,7 +2,7 @@
 
 - Debemos crear un archivo con extención .java con el nombre de nuestra clase; ejemplo: Comida.java  
 - Incializamos nuestra clase (public class Comida{})
-- Agregamos atributos (deben ser privados y tener un tipo de dato[int,String, char, etc.])
+- Agregamos atributos (deben ser privados y tener un tipo de dato [int, String, char, etc.])
 - Creamos el método constructor(debe ser público y llamarse exactamente igual que la clase). Recibe como parametros los datos que le vamos a asignar a nuestros atributos.
 - De ser necesatrio creamos getters y setters de nuestros atributos
 - De igual manera misma forma de ser necesario creamos métodos(acciones que nuestro objeto realiza)
